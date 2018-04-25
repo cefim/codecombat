@@ -1311,7 +1311,7 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     play_now_learn_2: "les boucles while pour résoudre des problèmes complexes"
     play_now_learn_3: "des chaines de caractères & des variables pour personnaliser des actions"
     play_now_learn_4: "comment battre un ogre (compétence importante dans la vie !)"
-    welcome_to_page: "Bienvenu sur la page des Cours !" # {change}
+    welcome_to_page: "Bienvenue sur la page des Cours !" # {change}
     my_classes: "Mes Classes"
     class_added: "Classe ajoutée avec succès !"
     view_levels: "voir les niveaux" # {change}
